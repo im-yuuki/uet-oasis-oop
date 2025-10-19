@@ -1,4 +1,4 @@
-package week4.kethua1;
+package week4.inheritance1;
 
 public class Circle {
 

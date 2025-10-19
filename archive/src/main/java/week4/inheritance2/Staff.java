@@ -1,4 +1,4 @@
-package week4.kethua2;
+package week4.inheritance2;
 
 public class Staff extends Person {
     private String school;
